@@ -1,5 +1,6 @@
 # ELEF-SM
-Delivery system for busines
+Delivery system for busines.
+First PHP website.
 
 
 # DB info.<br/>
