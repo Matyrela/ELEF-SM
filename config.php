@@ -2,7 +2,7 @@
 /* Database credentials. Assuming you are running MySQL */
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'elbio');
+define('DB_PASSWORD', '');
 define('DB_NAME', 'salonmanager');
  
 /* Attempt to connect to MySQL database */
